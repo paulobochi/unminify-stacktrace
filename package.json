@@ -1,0 +1,15 @@
+{
+  "name": "unminify-stacktrace",
+  "version": "1.0.0",
+  "description": "Small lib to unminify React Native stacktrace using metro-symbolicate\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "metro-symbolicate": "^0.76.0"
+  }
+}
